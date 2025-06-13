@@ -12,7 +12,7 @@ Visualize data to uncover patterns and insights
 ## Dataset Information
 
 Source: Kaggle - Unemployment in India  
-File used:Archive(1) 
+File used:Archive(1).zip 
 Includes columns like:  
 - Date  
 - State  
@@ -33,7 +33,7 @@ statsmodels
 ## How to Run
 
 Open analysis.ipynb in Google Colab  
-Upload the CSV file: Unemployment_Rate_upto_11_2020.csv  
+Upload the CSV file: Archive(1).zip 
 Run each cell to see the visualizations and analysis  
 
 ## Summary of Results
